@@ -5,4 +5,4 @@ console.log(joinThem)
 
 
 const resolve = path.resolve(__dirname,'/src','sorce','more.txt')
-console.log(resolve)  
+console.log(resolve)
