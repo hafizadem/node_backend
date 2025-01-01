@@ -1,1 +1,2 @@
-this message is from app.jsthis is the first commit
+this message is from app.js: this is the first commit
+ second commit is hear
